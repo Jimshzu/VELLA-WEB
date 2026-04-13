@@ -30,7 +30,7 @@ Users can register, manage their profiles, view and respond to blood requests, j
 ---
 
 ## Project Proposal (Part 1)
-[Insert link to your Proposal PDF here]
+[CHAPTER1_PROJECT_PROPOSAL_AND_TECHNICAL_DESCRIPTION (1).pdf](https://github.com/user-attachments/files/26680227/CHAPTER1_PROJECT_PROPOSAL_AND_TECHNICAL_DESCRIPTION.1.pdf)
 
 ---
 
